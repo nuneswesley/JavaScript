@@ -38,3 +38,4 @@ function calcularImc(peso,altura){
     imc = peso / (altura * altura);
 
     return imc.toFixed(2);
+}
